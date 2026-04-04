@@ -43,14 +43,17 @@
 
 ---
 
-
-### 📊 Estatísticas do GitHub
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-ary-dark" />
+  <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de Alexandre" />
+  
+  <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-ary-dark&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreAlan&theme=vision-ary-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

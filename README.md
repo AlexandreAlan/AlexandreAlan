@@ -27,9 +27,9 @@
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/> &nbsp;&nbsp;&nbsp;
-<img width="60" src="https://cdn.simpleicons.org/pfsense/CB2027" alt="pfSense" title="pfSense"/> &nbsp;&nbsp;&nbsp;
+<img width="60" src="https://cdn.simpleicons.org/pfsense/00599C" alt="pfSense" title="pfSense"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp;&nbsp;
-<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script" title="Shell Script"/>
+<img width="60" src="https://cdn.simpleicons.org/proxmox/E57000" alt="Proxmox" title="Proxmox"/>
 
 ---
 

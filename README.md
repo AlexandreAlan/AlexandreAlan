@@ -47,21 +47,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=donut&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0a0a0a&langs_count=6&cache_seconds=1800" />
 </div>
 
----
-
-### 🟩 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreAlan&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&area_color=00bfff&hide_border=true&radius=6" width="100%" />
-</div>
-
----
-
-### 🧠 Linguagem Mais Utilizada Agora
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&langs_count=1&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
-</div>
 
 ---
 

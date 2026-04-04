@@ -39,9 +39,15 @@ Você pode falar comigo pelo LinkedIn, pelo Instagram ou me mandar um e-mail. Fi
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-alan-a5a8362ab)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.basto444@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandeyof)
+<a href="https://www.linkedin.com/in/alexandre-alan-a5a8362ab" target="_blank">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:alexandre.basto444@gmail.com" target="_blank">
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" title="Gmail"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/xandeyof" target="_blank">
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" title="Instagram"/>
+</a>
 
 <br><br>
 

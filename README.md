@@ -8,7 +8,11 @@
 <hr/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -37,6 +41,18 @@
 * 💻 Atualmente atuando como **Desenvolvedor**, criando automações, sites e sistemas ERP.
 * 💡 Grande entusiasta de **Python** — meu coração bate mais forte por essa linguagem.
 * 🎯 "O que precisar ser feito, será feito" – Foco total em entregar soluções que agreguem valor real ao negócio.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&count_private=true&theme=dark&title_color=00bfff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&custom_title=LINGUAGEM%20DE%20PROGRAMACAO%20MAIS%20UTILIZADA%20NO%20MOMENTO&theme=dark&title_color=00bfff&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 

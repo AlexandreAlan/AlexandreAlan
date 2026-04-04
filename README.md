@@ -44,15 +44,25 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=0a0a0a" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=donut&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0a0a0a" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=AlexandreAlan&theme=highcontrast&hide_border=true&background=0a0a0a&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=ffffff&dates=888888" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=AlexandreAlan&theme=highcontrast&hide_border=true&background=0a0a0a&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=ffffff&dates=888888" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreAlan&bg_color=0a0a0a&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+### 🧠 Linguagens em Tempo Real
+
+<div align="center">
+
+> ⚡ Atualizado automaticamente via GitHub Actions — reflete os repositórios reais da conta.
+
+<!-- LANGS_START -->
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=donut-vertical&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0a0a0a&langs_count=6&cache_seconds=1800)
+<!-- LANGS_END -->
+
 </div>
 
 ---

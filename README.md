@@ -29,7 +29,7 @@
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.simpleicons.org/pfsense/00599C" alt="pfSense" title="pfSense"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp;&nbsp;
-<img width="60" src="https://cdn.simpleicons.org/proxmox/E57000" alt="Proxmox" title="Proxmox"/>
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/>
 
 ---
 

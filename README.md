@@ -40,13 +40,13 @@ Você pode falar comigo pelo LinkedIn, pelo Instagram ou me mandar um e-mail. Fi
 <br>
 
 <a href="https://www.linkedin.com/in/alexandre-alan-a5a8362ab" target="_blank">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/>
+  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:alexandre.basto444@gmail.com" target="_blank">
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" title="Gmail"/>
+  <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" title="Gmail"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/xandeyof" target="_blank">
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" title="Instagram"/>
+  <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" title="Instagram"/>
 </a>
 
 <br><br>

@@ -40,13 +40,16 @@
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=0a0a0a" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=donut&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0a0a0a&langs_count=6&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=0a0a0a" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&custom_title=LINGUAGEM%20DE%20PROGRAMACAO%20MAIS%20UTILIZADA%20NO%20MOMENTO&layout=compact&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0a0a0a&langs_count=6" />
 </div>
 
+---
 
 ---
 

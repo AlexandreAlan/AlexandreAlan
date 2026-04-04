@@ -40,17 +40,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&count_private=true&theme=dark&title_color=00bfff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&custom_title=LINGUAGEM%20DE%20PROGRAMACAO%20MAIS%20UTILIZADA%20NO%20MOMENTO&theme=dark&title_color=00bfff&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
 <div align="center">
   <sub>Construindo o futuro, um commit por vez.</sub>
 </div>

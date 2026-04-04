@@ -43,22 +43,16 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=0a0a0a" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=donut&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0a0a0a" />
+</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de Alexandre" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AlexandreAlan&theme=highcontrast&hide_border=true&background=0a0a0a&ring=00bfff&fire=00bfff&currStreakLabel=00bfff&sideLabels=ffffff&dates=888888" />
+</div>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreAlan&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexandreAlan&bg_color=0a0a0a&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---

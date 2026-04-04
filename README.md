@@ -28,14 +28,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+https://github.com/devicons/devicon/blob/v2.16.0/icons/pfsense/pfsense-original-wordmark.svg
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-### 📊 Estatísticas Gerais
-
-![](https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff)
 
 ---
 

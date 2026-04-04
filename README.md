@@ -43,11 +43,22 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de Alexandre" />
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-ary-dark&hide_border=true" alt="Linguagens mais usadas" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreAlan&theme=vision-ary-dark&hide_border=true" alt="GitHub Streak" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas de Alexandre" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreAlan&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
 </div>
 
 ---

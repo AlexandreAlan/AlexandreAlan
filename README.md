@@ -3,7 +3,7 @@
 <h1>Olá! Eu sou o Alexandre Alan 👋</h1>
 <h3>Analista de Redes N3 & Desenvolvedor de Software</h3>
 
-*"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."*
+<em>"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."</em>
 
 <br>
 
@@ -18,8 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,13 +37,9 @@
 
 ---
 
-### 📊 LINGUAGEM DE PROGRAMACAO MAIS UTILIZADA NO MOMENTO
+### 📊 Estatísticas Gerais
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&hide_border=true&theme=tokyonight&title_color=00bfff&langs_count=6)
-
-<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff)
 

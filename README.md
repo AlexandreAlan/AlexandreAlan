@@ -1,33 +1,30 @@
 <div align="center">
 
-# Olá! Eu sou o Alexandre Alan 👋
+<h1>Olá! Eu sou o Alexandre Alan 👋</h1>
+<h3>Analista de Redes N3 & Desenvolvedor de Software</h3>
 
-### Analista de Redes N3 & Desenvolvedor de Software
+<em>"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."</em>
 
-*"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."*
-
----
+<hr/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+<hr/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexandre-alan-a5a8362ab" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:alexandre.basto444@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/xandeyof" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/alexandre-alan-a5a8362ab" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:alexandre.basto444@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/xandeyof" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
@@ -47,12 +44,9 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de Alexandre" />
-  
+  &nbsp;
   <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-ary-dark&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <br />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreAlan&theme=vision-ary-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 

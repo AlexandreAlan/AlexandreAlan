@@ -1,12 +1,12 @@
-# Olá, eu sou o Alexandre Alan 👋
+<div align="center">
+
+# Olá! Eu sou o Alexandre Alan 👋
 
 ### Analista de Redes N3 & Desenvolvedor de Software
 
-> "A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."
+*"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."*
 
 ---
-
-### 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,25 +15,33 @@
 
 ---
 
+<a href="https://www.linkedin.com/in/alexandre-alan-a5a8362ab" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+---
+
 ### 🚀 Sobre Mim
 
-- 🎓 Formado em **Redes de Computadores** e cursando **Engenharia de Software** (5º/8º período).
-- 🏢 Trajetória sólida na área de Infraestrutura: de Suporte N1 a **Analista N3**.
-- 💻 Atualmente focado em **Desenvolvimento de Software**, criando automações, sites e sistemas ERP.
-- 💡 Grande entusiasta de **Python** para resolução de problemas e otimização de processos.
-- 🎯 "O que precisar ser feito, será feito" – Foco total em entregar soluções que façam sentido para o negócio.
+* 🎓 Formado em **Redes de Computadores** e cursando **Engenharia de Software** (5º/8º período).
+* 🏢 Trajetória sólida na área de Infraestrutura: de Suporte N1 a **Analista N3**.
+* 💻 Atualmente atuando como **Desenvolvedor**, criando automações, sites e sistemas ERP.
+* 💡 Grande entusiasta de **Python** — meu coração bate mais forte por essa linguagem.
+* 🎯 "O que precisar ser feito, será feito" – Foco total em entregar soluções que agreguem valor real ao negócio.
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-ary-dark"/>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-ary-dark" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([http://www.linkedin.com/in/alexandre-alan-a5a8362ab))
+<div align="center">
+  <sub>Construindo o futuro, um commit por vez.</sub>
+</div>

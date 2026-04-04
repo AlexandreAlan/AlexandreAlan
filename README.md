@@ -3,32 +3,27 @@
 <h1>Olá! Eu sou o Alexandre Alan 👋</h1>
 <h3>Analista de Redes N3 & Desenvolvedor de Software</h3>
 
-<em>"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."</em>
+*"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-alan-a5a8362ab)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.basto444@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xandeyof)
 
 <hr/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<hr/>
-
-<a href="https://www.linkedin.com/in/alexandre-alan-a5a8362ab" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:alexandre.basto444@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/xandeyof" target="_blank">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -44,13 +39,15 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 LINGUAGEM DE PROGRAMACAO MAIS UTILIZADA NO MOMENTO
 
 <div align="center">
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&count_private=true&theme=dark&title_color=00bfff&icon_color=00bfff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&hide_border=true&theme=tokyonight&title_color=00bfff&langs_count=6)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&custom_title=LINGUAGEM%20DE%20PROGRAMACAO%20MAIS%20UTILIZADA%20NO%20MOMENTO&theme=dark&title_color=00bfff&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff)
 
 </div>
 

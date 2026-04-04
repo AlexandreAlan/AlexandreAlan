@@ -28,8 +28,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=vision-ary-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreAlan&show_icons=true&theme=vision-ary-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreAlan&layout=compact&theme=vision-ary-dark"/>
 </div>
 
 ---

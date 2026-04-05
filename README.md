@@ -1,7 +1,18 @@
+<div align="right">
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version">
+  </a>
+</div>
+
 <div align="center">
 
 <h1>Olá! Eu sou o Alexandre Alan 👋</h1>
 <h3>Analista de Redes N3 & Desenvolvedor de Software</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Local_Time-Fortaleza,_CE-00599C?style=flat-square&logo=clock&logoColor=white" />
+  <img src="https://cards-stack.vercel.app/api/cards/time?timezone=America/Fortaleza&prefix=Agora:+&suffix=" />
+</p>
 
 <em>"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."</em>
 
@@ -28,7 +39,7 @@
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.simpleicons.org/pfsense/00599C" alt="pfSense" title="pfSense"/> &nbsp;&nbsp;&nbsp;
-<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/>
 
 ---

@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README_EN.md">
+  <a href="https://github.com/AlexandreAlan/AlexandreAlan/blob/main/README_EN.md">
     <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version">
   </a>
 </div>
@@ -39,7 +39,7 @@
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.simpleicons.org/pfsense/00599C" alt="pfSense" title="pfSense"/> &nbsp;&nbsp;&nbsp;
-<img width="60" src="https://cdn.jsdelivr.gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp;&nbsp;
+<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/> &nbsp;&nbsp;&nbsp;
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/>
 
 ---

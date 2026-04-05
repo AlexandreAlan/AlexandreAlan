@@ -9,11 +9,6 @@
 <h1>Olá! Eu sou o Alexandre Alan 👋</h1>
 <h3>Analista de Redes N3 & Desenvolvedor de Software</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Local_Time-Fortaleza,_CE-00599C?style=flat-square&logo=clock&logoColor=white" />
-  <img src="https://cards-stack.vercel.app/api/cards/time?timezone=America/Fortaleza&prefix=Agora:+&suffix=" />
-</p>
-
 <em>"A evolução é a única constante na tecnologia. Unindo a robustez da infraestrutura com a agilidade do código."</em>
 
 <hr/>
